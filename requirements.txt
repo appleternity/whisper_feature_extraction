@@ -1,4 +1,6 @@
 torch
+torchvision
+torchaudio
 transformers
 librosa
 h5py
