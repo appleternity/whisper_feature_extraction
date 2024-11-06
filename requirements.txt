@@ -1,0 +1,6 @@
+torch
+transformers
+librosa
+h5py
+tqdm
+numpy
